@@ -3,4 +3,5 @@ replicas: 4
 
 configmap:
   data:
+    BG_COLOR: '#ff181b'
     CUSTOM_HEADER: 'This is on the PROD environment!'
