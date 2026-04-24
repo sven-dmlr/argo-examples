@@ -3,5 +3,4 @@ replicas: 2
 
 configmap:
   data:
-    BG_COLOR: '#12181b'
     CUSTOM_HEADER: 'This is on the DEV environment!'
